@@ -1,0 +1,9 @@
+{
+	"name": "df-fcc-fcr-recon",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12b65105-b5cd-41ef-abe9-82305184e479",
+		"tenantId": "6486b717-c670-4402-a8d1-e33388609e54"
+	}
+}
